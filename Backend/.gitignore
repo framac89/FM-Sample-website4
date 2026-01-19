@@ -1,0 +1,24 @@
+# Build e binari
+bin/
+obj/
+
+# File di configurazione locali
+appsettings.json
+appsettings.Development.json
+*.user
+*.local
+*.suo
+
+# Cartelle di pacchetti temporanei
+*.nupkg
+packages/
+
+# Log e cache
+*.log
+.vs/
+.vscode/
+*.DS_Store
+
+# Backup temporanei
+*.bak
+*.tmp
